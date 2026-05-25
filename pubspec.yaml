@@ -1,0 +1,39 @@
+name: abu_fashion_store
+description: "Abu Fashion Store - Online Fashion App"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # Firebase
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.4
+  cloud_firestore: ^5.6.0
+
+  # State Management
+  flutter_bloc: ^8.1.6
+  equatable: ^2.0.5
+
+  # UI
+  google_fonts: ^6.2.1
+  cached_network_image: ^3.4.1
+
+  # Utils
+  uuid: ^4.5.1
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/branding/abu_fashion_logo.png

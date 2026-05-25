@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210711427505",
+    "project_id": "abu-fasion-store",
+    "storage_bucket": "abu-fasion-store.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210711427505:android:7e3133ad0fcc2cf222e590",
+        "android_client_info": {
+          "package_name": "com.abufashion.abu_fashion_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdK7xRnJPuTX7_Fvc2zI5JesCpf-9INt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

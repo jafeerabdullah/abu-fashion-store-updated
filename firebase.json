@@ -1,0 +1,28 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "abu-fasion-store",
+          "appId": "1:210711427505:android:7e3133ad0fcc2cf222e590",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "abu-fasion-store",
+          "configurations": {
+            "android": "1:210711427505:android:7e3133ad0fcc2cf222e590",
+            "ios": "1:210711427505:ios:4a8524d85226cd0722e590",
+            "macos": "1:210711427505:ios:4a8524d85226cd0722e590",
+            "web": "1:210711427505:web:fb865de8e5a63cb322e590",
+            "windows": "1:210711427505:web:e7af941c8f7e9f1f22e590"
+          }
+        }
+      }
+    }
+  }
+}

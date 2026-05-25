@@ -1,0 +1,7 @@
+{
+  "name": "abu-fashion-store-tools",
+  "private": true,
+  "scripts": {
+    "seed:products": "node scripts/seed_products.js"
+  }
+}

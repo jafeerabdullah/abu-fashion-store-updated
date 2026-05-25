@@ -1,0 +1,177 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Roman >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Bold >>
+endobj
+3 0 obj
+<< /Length 3810 >>
+stream
+BT /F2 20 Tf 1 0 0 1 54.00 787.89 Tm (Abu Fashion Store) Tj ET
+BT /F2 16 Tf 1 0 0 1 54.00 763.89 Tm (Video Demonstration Script) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 737.89 Tm (Duration: 3-5 minutes) Tj ET
+BT /F2 12 Tf 1 0 0 1 54.00 713.89 Tm (Student Name: [Your Name]) Tj ET
+BT /F2 12 Tf 1 0 0 1 54.00 691.89 Tm (Student ID: [Your Student ID]) Tj ET
+BT /F2 12 Tf 1 0 0 1 54.00 669.89 Tm (Application: Abu Fashion Store) Tj ET
+BT /F2 12 Tf 1 0 0 1 54.00 647.89 Tm (Recording Device: Android emulator or physical Android device) Tj ET
+BT /F2 15 Tf 1 0 0 1 54.00 623.89 Tm (Recording Notes) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 602.89 Tm (- Record the phone screen while the app is running from Android Studio, Flutter, or an) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 586.89 Tm (  installed APK.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 564.89 Tm (- Speak slowly and clearly. Keep the demonstration between 3 and 5 minutes.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 542.89 Tm (- Before recording, prepare a test email, password, and a few products in the cart.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 520.89 Tm (- If Firebase Console is shown, hide private keys and sensitive project credentials.) Tj ET
+BT /F2 15 Tf 1 0 0 1 54.00 496.89 Tm (Main Video Script) Tj ET
+BT /F2 13 Tf 1 0 0 1 54.00 475.89 Tm (0:00-0:20 - Student Introduction) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 458.89 Tm (What to show: Show yourself briefly or show a title slide with the app name.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 436.89 Tm (Voice script: Hello, my name is [Your Name], student ID [Your Student ID]. Today I am) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 420.89 Tm (demonstrating my mobile application called Abu Fashion Store. This is an online) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 404.89 Tm (fashion shopping app developed using Flutter and Firebase. In this video, I will show) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 388.89 Tm (registration, login, product browsing, cart and checkout, order history, Firebase) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 372.89 Tm (integration, and the app running on a device or emulator.) Tj ET
+BT /F2 13 Tf 1 0 0 1 54.00 346.89 Tm (0:20-0:45 - Application Overview) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 329.89 Tm (What to show: Open the app on the Android emulator or physical phone. Show the login) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 313.89 Tm (screen and app logo.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 291.89 Tm (Voice script: This is the Abu Fashion Store application. The purpose of the app is to) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 275.89 Tm (let customers browse fashion products, add items to a cart, place an order, and view) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 259.89 Tm (past orders. The app includes categories for men, women, kids, and accessories. It) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 243.89 Tm (uses a clean mobile interface with product images, category filters, and simple) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 227.89 Tm (navigation.) Tj ET
+BT /F2 13 Tf 1 0 0 1 54.00 201.89 Tm (0:45-1:25 - Login and Register) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 184.89 Tm (What to show: Show the sign up screen, enter sample details, then show the login) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 168.89 Tm (screen. Use test account data.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 146.89 Tm (Voice script: First, I will demonstrate the registration and login process. On the) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 130.89 Tm (sign up screen, the user enters full name, email address, phone number, password, and) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 114.89 Tm (confirm password. The app validates the fields before creating an account. After) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 98.89 Tm (registration, the user can log in using email and password. Firebase Authentication is) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 82.89 Tm (used to manage user accounts. There is also a forgot password option that sends a) Tj ET
+endstream
+endobj
+4 0 obj
+<< /Length 3761 >>
+stream
+BT /F1 12 Tf 1 0 0 1 54.00 787.89 Tm (reset email to the user.) Tj ET
+BT /F2 13 Tf 1 0 0 1 54.00 761.89 Tm (1:25-2:10 - Product Browsing) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 744.89 Tm (What to show: Navigate to the home screen and product screen. Tap category filters and) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 728.89 Tm (use the search bar.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 706.89 Tm (Voice script: After login, the user reaches the home screen. Here we can see a welcome) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 690.89 Tm (message, search option, category buttons, and featured products. If I open the) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 674.89 Tm (products page, I can browse all products in a grid layout. The user can filter) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 658.89 Tm (products by category such as men, women, kids, and accessories. The search bar helps) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 642.89 Tm (find products quickly by name or category. Product images are loaded from network URLs) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 626.89 Tm (and displayed in product cards.) Tj ET
+BT /F2 13 Tf 1 0 0 1 54.00 600.89 Tm (2:10-2:50 - Product Detail and Cart) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 583.89 Tm (What to show: Open a product, select a size, add it to the cart, and update quantity.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 561.89 Tm (Voice script: When a product is selected, the detail screen shows the product image,) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 545.89 Tm (name, price, rating, description, and available sizes. The user must select a size) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 529.89 Tm (before adding the item to the cart. After adding the item, the cart screen shows the) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 513.89 Tm (selected product, size, quantity, and price. The user can increase quantity, decrease) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 497.89 Tm (quantity, remove items, and view subtotal, shipping, and total amount.) Tj ET
+BT /F2 13 Tf 1 0 0 1 54.00 471.89 Tm (2:50-3:30 - Cart and Checkout) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 454.89 Tm (What to show: Open checkout, fill delivery details, select payment method, and place) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 438.89 Tm (order.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 416.89 Tm (Voice script: Next, I will demonstrate checkout. The checkout page collects delivery) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 400.89 Tm (information such as name, phone number, address, city, and ZIP code. It also allows) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 384.89 Tm (the user to choose a payment method, such as credit or debit card, or cash on) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 368.89 Tm (delivery. The order summary displays subtotal, shipping, and total. When I tap Place) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 352.89 Tm (Order, the app creates an order and stores it in Firestore under the current user) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 336.89 Tm (account.) Tj ET
+BT /F2 13 Tf 1 0 0 1 54.00 310.89 Tm (3:30-4:00 - Order History) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 293.89 Tm (What to show: Show the order success page, then open Profile and Order History.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 271.89 Tm (Voice script: After the order is placed, the confirmation screen displays the order) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 255.89 Tm (number, order date, estimated delivery date, payment method, delivery details, and) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 239.89 Tm (total paid. The cart is cleared after a successful order. From the profile page, the) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 223.89 Tm (user can open order history and view previous orders. Each order card shows the order) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 207.89 Tm (number, date, status, total amount, payment method, item count, delivery details, and) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 191.89 Tm (ordered items.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Length 2168 >>
+stream
+BT /F2 13 Tf 1 0 0 1 54.00 787.89 Tm (4:00-4:35 - Firebase Integration) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 770.89 Tm (What to show: Show Firebase files, Firestore rules, or Firebase Console if available.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 754.89 Tm (Hide private credentials.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 732.89 Tm (Voice script: This app is integrated with Firebase. Firebase Authentication handles) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 716.89 Tm (registration, login, logout, password reset, and account deletion. Cloud Firestore) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 700.89 Tm (stores user profiles, product data, and orders. The products collection is readable by) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 684.89 Tm (users, while user profiles and orders are protected so only the account owner can) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 668.89 Tm (access them. The app also has a local product catalog as a fallback if Firestore is) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 652.89 Tm (not available.) Tj ET
+BT /F2 13 Tf 1 0 0 1 54.00 626.89 Tm (4:35-4:55 - Run on Device or Emulator) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 609.89 Tm (What to show: Show the running app on the emulator or phone, or show the Android run) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 593.89 Tm (target.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 571.89 Tm (Voice script: The application is running on an Android emulator or physical Android) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 555.89 Tm (device. I also built a release APK for testing and installation. This shows that the) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 539.89 Tm (Flutter project can be compiled and executed as a real mobile application.) Tj ET
+BT /F2 13 Tf 1 0 0 1 54.00 513.89 Tm (4:55-5:00 - Closing) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 496.89 Tm (What to show: Return to the home screen or title screen.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 474.89 Tm (Voice script: In conclusion, Abu Fashion Store demonstrates a complete mobile shopping) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 458.89 Tm (workflow with authentication, product browsing, cart, checkout, order history, and) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 442.89 Tm (Firebase backend support. Thank you for watching my demonstration.) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Length 2293 >>
+stream
+BT /F2 15 Tf 1 0 0 1 54.00 785.89 Tm (Video Checklist) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 764.89 Tm (- Student introduction included.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 742.89 Tm (- Application overview shown from the running app.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 720.89 Tm (- Login and register screens demonstrated.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 698.89 Tm (- Product browsing, search, and category filtering demonstrated.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 676.89 Tm (- Cart, quantity controls, checkout form, and payment method shown.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 654.89 Tm (- Order confirmation and order history shown.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 632.89 Tm (- Firebase Authentication and Cloud Firestore integration explained.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 610.89 Tm (- App shown running on an Android emulator or physical device.) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 588.89 Tm (- Final video duration kept between 3 and 5 minutes.) Tj ET
+BT /F2 15 Tf 1 0 0 1 54.00 564.89 Tm (Short Backup Script) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 543.89 Tm (Hello, my name is [Your Name], and this is my Abu Fashion Store mobile application. It) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 527.89 Tm (is an online fashion shopping app built with Flutter and Firebase. Users can register,) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 511.89 Tm (log in, browse products by category, search products, view product details, select a) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 495.89 Tm (size, add products to the cart, and complete checkout. The checkout process collects) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 479.89 Tm (delivery details and payment method, then stores the order in Cloud Firestore. After) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 463.89 Tm (placing an order, the app shows an order confirmation page and the order can be viewed) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 447.89 Tm (later in the order history screen. Firebase Authentication manages user accounts, while) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 431.89 Tm (Firestore stores users, products, and orders with security rules to protect customer) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 415.89 Tm (data. The app is running on an Android emulator or device, and a release APK has been) Tj ET
+BT /F1 12 Tf 1 0 0 1 54.00 399.89 Tm (built for installation and testing. Thank you.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+8 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 4 0 R >>
+endobj
+9 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+10 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 6 0 R >>
+endobj
+11 0 obj
+<< /Type /Pages /Kids [7 0 R 8 0 R 9 0 R 10 0 R] /Count 4 >>
+endobj
+12 0 obj
+<< /Type /Catalog /Pages 11 0 R >>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000009 00000 n 
+0000000081 00000 n 
+0000000152 00000 n 
+0000004014 00000 n 
+0000007827 00000 n 
+0000010047 00000 n 
+0000012392 00000 n 
+0000012535 00000 n 
+0000012678 00000 n 
+0000012821 00000 n 
+0000012965 00000 n 
+0000013042 00000 n 
+trailer
+<< /Size 13 /Root 12 0 R >>
+startxref
+13093
+%%EOF
